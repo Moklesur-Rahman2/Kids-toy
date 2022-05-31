@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 16px 0;
+}
+.nav-bar a{
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 12px;
+    padding: 8px;
+    text-decoration: none;
+}
+.nav-bar{
+    display: flex;
+
+}

@@ -1,0 +1,19 @@
+.reviews-wrap{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 24px;
+    margin-bottom: 40px;
+}
+.reviews{
+    padding: 64px 0;
+    text-align: center;
+}
+.review-btn{
+    background-color: #8fcbd5;
+    color: #fff;
+    text-decoration: none;
+    padding: 12px 32px;
+    border-radius: 50px;
+    font-weight: 700;
+    text-transform: capitalize;
+}

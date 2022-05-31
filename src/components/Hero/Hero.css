@@ -1,0 +1,41 @@
+.hero-section{
+display: flex;
+}
+.hero-section .text-area{
+    background-color: #8fcbd5;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.text-area h1{
+    font-size: 72px;
+    max-width: 500px;
+    text-align: center;
+    margin-bottom: 16px;
+    color: #fff;
+}
+.text-area p{
+    font-size: 18px;
+    text-align: center;
+    max-width: 650px;
+    line-height: 1.5;
+    color: rgb(58, 58, 58);
+}
+.hero-section .photo-area img{
+    width: 100%;
+    height: 100%;
+}
+.hero-section .photo-area{
+    width: 50%;
+}
+.shop-btn{
+    background-color: #fff;
+    padding: 12px 32px;
+    border: none;
+    font-size: 22px;
+    margin-top: 32px;
+    border-radius: 50px;
+    cursor: pointer;
+}

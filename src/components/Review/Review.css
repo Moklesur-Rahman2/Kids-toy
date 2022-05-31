@@ -1,0 +1,21 @@
+.review{
+    text-align: center;
+    border: 1px solid rgb(211, 210, 210);
+    padding: 16px 32px;
+}
+.review img{
+    border-radius: 100%;
+    width: 120px;
+    position: relative;
+}
+.review h3{
+margin-top: 16px;
+}
+.review p{
+line-height: 1.5;
+margin-top: 8px;
+}
+.ratting{
+margin-top: 16px;
+font-weight: 700;
+}
